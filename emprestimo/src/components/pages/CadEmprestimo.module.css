@@ -1,0 +1,16 @@
+.novoprojeto_conteiner{
+    width: 650px;
+    margin: 0 auto;
+    padding: 3em;
+}
+
+.novoprojeto_conteiner h1{
+    font-size: 2rem;
+    margin-bottom: 0.5em;
+    text-align: center;
+}
+
+.novoprojeto_conteiner p{
+    text-align: center;
+    color: #033D2F;
+}
